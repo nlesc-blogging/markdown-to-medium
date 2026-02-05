@@ -8,3 +8,8 @@ all: README.md 00/README.html 01/README.docx 02/README.rtf
 
 02/README.rtf: README.md
 	pandoc README.md -o 02/README.rtf
+
+clean:
+	rm -f 00/README.html 01/README.docx 02/README.rtf
+
+.PHONY: all clean
