@@ -24,7 +24,7 @@ Different _styles_ of **text** including [links](https://blog.esciencecenter.nl)
 ## Equations
 
 ### Inline
-Did you know $i^2 = -1`$?
+Did you know $i^2 = -1$?
 
 ### Standalone
 $$
