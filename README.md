@@ -16,7 +16,7 @@ Different _styles_ of **text** including [links](https://blog.esciencecenter.nl)
 ## Images
 
 ### Local
-![](/img/example.png)
+![](img/example.png)
 
 ### Remote
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*p-bXNNLho5-shFC2lQB4bQ.png)
